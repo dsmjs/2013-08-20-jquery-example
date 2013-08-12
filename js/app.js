@@ -4,6 +4,9 @@ var like = function(el) {
     if (liked) {
         $("#main").hide();
         $("#footer").show();
+    } else {
+        $("#footer").hide();
+        $("#main").show();
     }
 };
 
