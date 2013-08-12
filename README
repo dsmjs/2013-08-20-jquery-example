@@ -1,0 +1,5 @@
+To run the web app
+
+    ./bin/server
+
+    http://localhost:3000
