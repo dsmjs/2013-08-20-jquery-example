@@ -1,3 +1,4 @@
+
 var like = function(el) {
     var liked = $("#main").is(":visible");
 
